@@ -2,7 +2,7 @@
 # Laravel Env Manager
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/dipesh79/laravel-env-manager.svg?style=flat-square)](https://packagist.org/packages/dipesh79/laravel-env-manager)
-[![Total Downloads](http://poser.pugx.org/dipesh79/laravel-env-manager/downloads)](https://img.shields.io/packagist/dt//dipesh79/laravel-env-manager)
+[![Total Downloads](https://img.shields.io/packagist/dt/dipesh79/laravel-env-manager)](https://packagist.org/packages/dipesh79/laravel-env-manager)
 [![License](https://img.shields.io/packagist/l/dipesh79/laravel-env-manager)](https://packagist.org/packages/dipesh79/laravel-env-manager)
 
 This Laravel package allows you to manage your Laravel environment variables with ease using Artisan commands and a basic web interface for visual management.
